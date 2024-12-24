@@ -1,7 +1,7 @@
 server {
     listen 80 default_server;
     listen [::]:80 default_server;
-    server_name localhost;
+    server_name nextcloud.norhash.com;
 
     # listen              443 ssl;
     # listen              [::]:443 ssl;
