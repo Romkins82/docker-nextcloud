@@ -6,7 +6,7 @@ Composition of containers for using Nextcloud
 
 Just clone this repo then go to folder with sources
 
-    git clone https://github.com/EvilFreelancer/docker-nextcloud.git
+    git clone https://github.com/Romkins82/docker-nextcloud.git
     cd docker-nextcloud
 
 Copy dist configs and fix your parameters if need
